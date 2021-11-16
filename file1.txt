@@ -1,1 +1,7 @@
-Amazing files on the way 
+<<<<<<< HEAD
+ 
+=======
+This is amazing
+New changes to test
+Awesome man 
+>>>>>>> testbranch
